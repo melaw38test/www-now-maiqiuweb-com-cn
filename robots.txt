@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://melaw38test.github.io/www-now-maiqiuweb-com-cn/sitemap.xml
